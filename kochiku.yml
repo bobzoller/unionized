@@ -1,5 +1,4 @@
+node: 0.10
 test_command: 'ci'
 targets:
   - type: unit
-    options:
-      node: 0.10
